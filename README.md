@@ -57,5 +57,5 @@ I am a **Junior Full-Stack Software Engineer** specialized in Software Engineeri
 ### 📫 Get in Touch
 
 * **Email:** [proldanpuebla@gmail.com](mailto:proldanpuebla@gmail.com)
-* **LinkedIn:** [Pablo Roldán](https://linkedin.com/in/Pablo%20MyProfile)
+* **LinkedIn:** [Pablo Roldán Puebla](www.linkedin.com/in/pablomyprofile)
 * **GitHub:** [@ssCuackss](https://github.com/ssCuackss)

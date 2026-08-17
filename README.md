@@ -3,7 +3,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Looking%20for%20Opportunities-brightgreen?style=flat-square" alt="Status" />
   <img src="https://img.shields.io/badge/Degree-Computer%20Science%20(Software%20Engineering)-blue?style=flat-square" alt="Degree" />
-  <img src="https://img.shields.io/badge/Based%20in-Montilla%2C%20Spain-orange?style=flat-square" alt="Location" />
 </p>
 
 I am a **Junior Full-Stack Software Engineer** specialized in Software Engineering from the University of Córdoba. Passionate about designing and building scalable web applications, robust RESTful APIs, and optimizing engineering processes through efficient technological solutions.

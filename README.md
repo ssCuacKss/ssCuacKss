@@ -25,7 +25,7 @@ I am a **Junior Full-Stack Software Engineer** specialized in Software Engineeri
 * Developed and maintained fast, secure, and well-structured RESTful APIs for enterprise client applications.
 * Utilized Java frameworks such as **Spring Boot** and deployed robust containerized solutions using **Docker**.
 
-#### **Software Engineer | Moresil S.L.** *(2024 – 2025)*
+#### **Software Engineer | Moresil S.L.** *(Oct 2024 – Jun 2025)*
 * Served as the company's sole software engineer, taking full responsibility for designing and building digital solutions from the ground up with little to no previous documentation.
 * Led the planning, design, and development of internal workflow optimization tools for the engineering team, including machinery operation cost visualization.
 * Built scalable web applications utilizing **Angular** and non-relational databases, alongside managing IT infrastructure and computer equipment maintenance.
